@@ -1,0 +1,25 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/adtitle.png" filesize="57324" filedate="2021-07-25 09:17:43" width="979px" height="1440px"/>
+<image path="images/back.jpg" filesize="190303" filedate="2021-07-25 09:17:43" width="1132px" height="1440px"/>
+<image path="images/bookplate.png" filesize="44051" filedate="2021-07-25 09:17:46" width="609px" height="801px"/>
+<image path="images/front.jpg" filesize="349805" filedate="2021-07-25 09:17:46" width="1120px" height="1440px"/>
+<image path="images/h01.png" filesize="51959" filedate="2021-07-25 09:17:50" width="1240px" height="403px"/>
+<image path="images/h02.png" filesize="40720" filedate="2021-07-25 09:17:53" width="1247px" height="397px"/>
+<image path="images/h03.png" filesize="59775" filedate="2021-07-25 09:17:56" width="1245px" height="407px"/>
+<image path="images/h04.png" filesize="68573" filedate="2021-07-25 09:17:59" width="1247px" height="393px"/>
+<image path="images/h05.png" filesize="32671" filedate="2021-07-25 09:18:02" width="1261px" height="409px"/>
+<image path="images/h06.png" filesize="77591" filedate="2021-07-25 09:18:05" width="1259px" height="407px"/>
+<image path="images/h07.png" filesize="106406" filedate="2021-07-25 09:18:07" width="1265px" height="414px"/>
+<image path="images/h08.png" filesize="65641" filedate="2021-07-25 09:18:10" width="1252px" height="409px"/>
+<image path="images/h09.png" filesize="40938" filedate="2021-07-25 09:18:13" width="1243px" height="389px"/>
+<image path="images/h10.png" filesize="69415" filedate="2021-07-25 09:18:17" width="1246px" height="393px"/>
+<image path="images/h11.png" filesize="59390" filedate="2021-07-25 09:18:20" width="1243px" height="407px"/>
+<image path="images/h12.png" filesize="64766" filedate="2021-07-25 09:18:23" width="1260px" height="413px"/>
+<image path="images/h13.png" filesize="40571" filedate="2021-07-25 09:18:26" width="1245px" height="391px"/>
+<image path="images/plate01.jpg" filesize="433712" filedate="2021-07-25 09:18:26" width="1151px" height="1440px"/>
+<image path="images/plate02.jpg" filesize="433984" filedate="2021-07-25 09:18:26" width="1153px" height="1440px"/>
+<image path="images/plate03.jpg" filesize="435544" filedate="2021-07-25 09:18:27" width="1151px" height="1440px"/>
+<image path="images/qr65946.png" filesize="267" filedate="2021-07-29 19:17:38" width="148px" height="148px"/>
+<image path="images/spine.jpg" filesize="41638" filedate="2021-07-25 09:18:27" width="1440px" height="173px"/>
+<image path="images/titlepage.png" filesize="26736" filedate="2021-07-25 09:18:31" width="1041px" height="1440px"/>
+</images>
